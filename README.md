@@ -12,6 +12,7 @@ gerekenleri bu depodan kendisi indirir. Hücreleri sırayla çalıştırmak içi
 | --- | --- | --- |
 | E01 | Metinden sayılara: ilk tokenizer'ımız | [Colab'da aç](https://colab.research.google.com/github/kocahmet1/sifirdan-dil-modeli/blob/main/defter/E01_metinden_sayilara.ipynb) |
 | E02 | BPE: kelimeyi parçalara bölmek | [Colab'da aç](https://colab.research.google.com/github/kocahmet1/sifirdan-dil-modeli/blob/main/defter/E02_bpe.ipynb) |
+| A | Ara bölüm: PyTorch'a hızlı giriş | [Colab'da aç](https://colab.research.google.com/github/kocahmet1/sifirdan-dil-modeli/blob/main/defter/A_pytorch.ipynb) |
 | E03 | Kayan pencere: girdi ve hedef | [Colab'da aç](https://colab.research.google.com/github/kocahmet1/sifirdan-dil-modeli/blob/main/defter/E03_kayan_pencere.ipynb) |
 | E04 | Gömme: sayılardan vektörlere | [Colab'da aç](https://colab.research.google.com/github/kocahmet1/sifirdan-dil-modeli/blob/main/defter/E04_gomme.ipynb) |
 | E05 | Dikkat: kelimeler birbirine bakıyor | [Colab'da aç](https://colab.research.google.com/github/kocahmet1/sifirdan-dil-modeli/blob/main/defter/E05_dikkat.ipynb) |
